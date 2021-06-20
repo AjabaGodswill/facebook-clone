@@ -1,2 +1,2 @@
 # facebook-clone
-Aclone 0f the UI of facebook
+A clone 0f the UI of facebook
